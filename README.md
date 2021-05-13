@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @derbkz
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 Sometimes when I'm bored, I like to program unnecessary things.
 - 📫 How to reach me info@backz.de
 
 <!---
