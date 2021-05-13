@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @derbkz
-- 👀 Sometimes when I'm bored, I like to program unnecessary things.
+- 👀 Sometimes when I'm bored, I like to program unnecessary things. Maybe one or the other can do something with it.
 - 📫 How to reach me info@backz.de
 
 <!---
