@@ -1,16 +1,19 @@
-# Hey there! I'm derbkz
+<img href="https://github.com/derbkz/" src="https://www.backz.de/github/images/derbkz_title.png"/>
 
-👋 Hi, I’m @derbkz\
-👀 Sometimes when I'm bored, I like to program unnecessary things. Maybe one or the other can do something with it.\
-📫 How to reach me info@backz.de\
+<div align="center">
+   <p>
+     Sometimes when I'm bored, I like to program unnecessary things. Maybe one or the other can do something with it.<br>
+     At the moment I am in the process of implementing various projects privately. 
+   </p>
+   <hr><p>You can contact me at any time by email: <a href="mailto:info@backz.de"/>info@backz.de</p>
+</div>
 
 
-### ⚙️ &nbsp;GitHub Analytics
+
+
 
 <p>
-<a href="https://github.com/derbkz">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=derbkz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</a>
+
 </p>
 
 <!---
