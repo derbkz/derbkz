@@ -3,10 +3,7 @@
 </a>
 
 <div align="center">
-     <p>
-        At the moment I am in the process of implementing various projects privately.<br>
-        You can contact me at any time by email: <a href="mailto:info@backz.de"/>info@backz.de
-     </p>
+     <p>At the moment I am in the process of implementing various projects privately.</p>
 </div>
 
 
